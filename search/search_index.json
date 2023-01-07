@@ -1,0 +1,1 @@
+{"config":{"lang":["de"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Home","text":"<p>Welcome to the docs page of martinsbotimperium!</p>"},{"location":"test/","title":"Testpage","text":"<p>This is a test!</p>"}]}
